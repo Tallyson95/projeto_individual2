@@ -1,7 +1,7 @@
 
 
 body{
-    background: url(./img/gif.gif);
+    background: url(/img/gif.gif);
     background-repeat: no-repeat;
     background-size: 100%;
 }
